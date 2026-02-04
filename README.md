@@ -29,7 +29,7 @@ The insurance company is experiencing financial losses and lacks visibility into
 - Billed vs Paid Ratio Analysis
 
 ## Dashboard Preview
-Screenshots are available in the `/screenshots` folder.
+Screenshots are available 
 
 ## Author
 Arjun Premji
